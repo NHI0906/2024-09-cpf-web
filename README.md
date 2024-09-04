@@ -6,4 +6,4 @@
 | 주차 | 실습 |
 |:-----:------:|
 | 1  | Hello World |
-| 2  | Github Classroom | 
+| 2 | Github Classroom | 
